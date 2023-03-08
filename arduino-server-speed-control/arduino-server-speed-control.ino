@@ -1,10 +1,10 @@
- /**
- * Arduino Server Speed Control 0.0.1
- * A very simple demo for controlling the speed of a server via a poti
- * 
- * Copyright 2019, Murat Karaca <kmgt.de>
- * Licensed under MIT
- */
+/**
+* Arduino Server Speed Control 0.0.1
+* A very simple demo for controlling the speed of a server via a poti
+* 
+* Copyright 2019, Murat Motz
+* Murat Motz <dev@ztom.de> (https://www.kmgt.de)
+*/
 
 // include server lib
 #include <Servo.h> 
